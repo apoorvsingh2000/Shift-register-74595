@@ -1,0 +1,42 @@
+Partlist exported from C:/Users/apoor/Documents/EAGLE/projects/My Course/Shift register 74595/Shift_register_2_IC_74595.sch at 27-11-2020 01:33 AM
+
+Part       Value    Device          Package         Description                        POPULARITY SPICEPREFIX
+C1         0.1uF    C-EU050-030X075 C050-030X075    CAPACITOR, European symbol         9          C          
+C2         0.1uF    C-EU050-030X075 C050-030X075    CAPACITOR, European symbol         9          C          
+C3         0.1uF    C-EU050-030X075 C050-030X075    CAPACITOR, European symbol         9          C          
+INPUT      6P       PINHD-1X6/90    1X06/90         PIN HEADER                         10                    
+LED1       R        LED5MM          LED5MM          LED                                93                    
+LED2       R        LED5MM          LED5MM          LED                                93                    
+LED3       R        LED5MM          LED5MM          LED                                93                    
+LED4       R        LED5MM          LED5MM          LED                                93                    
+LED5       R        LED5MM          LED5MM          LED                                93                    
+LED6       R        LED5MM          LED5MM          LED                                93                    
+LED7       R        LED5MM          LED5MM          LED                                93                    
+LED8       R        LED5MM          LED5MM          LED                                93                    
+LED9       R        LED5MM          LED5MM          LED                                93                    
+LED10      R        LED5MM          LED5MM          LED                                93                    
+LED11      R        LED5MM          LED5MM          LED                                93                    
+LED12      R        LED5MM          LED5MM          LED                                93                    
+LED13      R        LED5MM          LED5MM          LED                                93                    
+LED14      R        LED5MM          LED5MM          LED                                93                    
+LED15      R        LED5MM          LED5MM          LED                                93                    
+LED16      R        LED5MM          LED5MM          LED                                93                    
+R1         510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R2         510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R3         510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R4         510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R5         510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R6         510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R7         510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R8         510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R9         510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R10        510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R11        510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R12        510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R13        510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R14        510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R15        510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+R16        510R     R-EU_0207/10    0207/10         RESISTOR, European symbol          81         R          
+SHIFT_REG1 74LS595N 74LS595N        DIL16           8-bit SHIFT REGISTER, output latch 0                     
+SHIFT_REG2 74LS595N 74LS595N        DIL16           8-bit SHIFT REGISTER, output latch 0                     
+U$1        AIRPLANE AIRPLANE        AIRPLANE_MEDIUM Airplane Logo 16*8mm                                     

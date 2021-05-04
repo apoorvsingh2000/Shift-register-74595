@@ -1,0 +1,9 @@
+Partlist exported from C:/Users/apoor/Documents/EAGLE/projects/My Course/Shift register 74595/Shift_register_2_IC_74595.sch at 27-11-2020 01:29 AM
+
+Qty Value    Device          Package         Parts                                                                                                 Description                        POPULARITY SPICEPREFIX
+3   0.1uF    C-EU050-030X075 C050-030X075    C1, C2, C3                                                                                            CAPACITOR, European symbol         9          C          
+16  510R     R-EU_0207/10    0207/10         R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16                                 RESISTOR, European symbol          81         R          
+1   6P       PINHD-1X6/90    1X06/90         INPUT                                                                                                 PIN HEADER                         10                    
+2   74LS595N 74LS595N        DIL16           SHIFT_REG1, SHIFT_REG2                                                                                8-bit SHIFT REGISTER, output latch 0                     
+1   AIRPLANE AIRPLANE        AIRPLANE_MEDIUM U$1                                                                                                   Airplane Logo 16*8mm                                     
+16  R        LED5MM          LED5MM          LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15, LED16 LED                                93                    
